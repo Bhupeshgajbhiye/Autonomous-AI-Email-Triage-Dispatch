@@ -4,8 +4,8 @@
 <tr>
 <td width="35%" align="center" valign="top" style="border: none; padding-right: 15px;">
 
-<!-- Advanced Conceptual Image: AI Data Parsing & Automated Sorting -->
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=400&q=80" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="AI Email Parsing and Data Triage Interface" />
+<!-- Relevant AI/Email Routing Graphic -->
+<img src="https://cdn-icons-png.flaticon.com/512/8002/8002120.png" width="70%" alt="AI Email Parsing Interface" />
 
 <br><br>
 <!-- Dynamic HUD / Typing Metric Indicator -->
