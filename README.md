@@ -4,26 +4,26 @@
 <tr>
 <td width="35%" align="center" valign="top" style="border: none; padding-right: 15px;">
 
-<!-- Bulletproof relative link to the file in your repo -->
-<img src="Gemini_Generated_Image_2t5v432t5v432t5v.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="AI Email Triage System Dashboard" />
+<!-- IMPORTANT: Save the generated image from our chat, upload it to your GitHub repo, and replace the src filename below if needed! -->
+<img src="watermarked_img_13400295253842193679.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="AI Email Triage System Dashboard" />
 
 <br><br>
 <!-- Dynamic HUD / Typing Metric Indicator -->
-<img src="https://readme-typing-svg.herokuapp.com?color=F55036&center=true&vCenter=true&lines=P1-P4+Priority+Scoring;Entity+Extraction;Groq-to-OpenAI+Failover;60%25+Faster+Turnaround&width=250&height=40&size=14">
+<img src="https://readme-typing-svg.herokuapp.com?color=F55036&center=true&vCenter=true&lines=P1-P4+Priority+Scoring;Entity+Extraction;Groq-to-OpenAI+Failover;60%25+Faster+Turnaround;PII+Sanitization+Active&width=250&height=40&size=14">
 
 </td>
 <td width="65%" valign="top" style="border: none; padding-left: 15px;">
 
 <blockquote>
-<b>🚀 Business Impact:</b> Engineered an asynchronous LLM pipeline that successfully cut enterprise ticket turnaround time by <b>60%</b>.
+<b>🚀 Business Impact:</b> Engineered an asynchronous LLM pipeline that successfully cut enterprise ticket turnaround time by <b>60%</b>, drastically reducing manual support overhead.
 </blockquote>
 
 <p><b>⚙️ Comprehensive Engineering Mechanics:</b></p>
 <ul>
-<li><b>Intelligent Routing & Scoring:</b> Deployed Groq API (Llama-3) for sub-second intent classification, precise entity extraction, and dynamic P1–P4 priority scoring.</li>
-<li><b>Automated Queue Dispatch:</b> Triggered via FastAPI webhooks, featuring intelligent queue routing and automated Slack escalation for high-priority tickets.</li>
-<li><b>Context-Aware Draft Generation:</b> Leverages OpenAI GPT models to auto-generate contextually accurate draft replies strictly adhering to JSON-schema outputs.</li>
-<li><b>Enterprise Resilience & Safety:</b> Built with a robust Groq-to-OpenAI model failover mechanism, active PII sanitization filters, and a mandatory human-in-the-loop approval gate prior to final dispatch.</li>
+<li><b>Intelligent Routing & Priority Scoring:</b> Deployed Groq API (Llama-3) for sub-second intent classification. Automatically parses incoming emails, performs precise entity extraction, and assigns dynamic P1 (Critical) to P4 (Low) priority scoring.</li>
+<li><b>Automated Queue Dispatch:</b> Seamlessly integrated via FastAPI webhooks. Features intelligent queue routing based on load, with instant automated Slack escalations for P1 tickets.</li>
+<li><b>Context-Aware Draft Generation:</b> Leverages OpenAI GPT models to read historical thread context and auto-generate accurate draft replies, strictly validated against predefined JSON-schema outputs.</li>
+<li><b>Enterprise Resilience & Security:</b> Architected with a robust Groq-to-OpenAI model failover mechanism to maximize uptime. Includes active PII (Personally Identifiable Information) sanitization filters and a mandatory human-in-the-loop approval gate prior to final client dispatch.</li>
 </ul>
 
 <p><b>🛠️ Technology Stack:</b></p>
