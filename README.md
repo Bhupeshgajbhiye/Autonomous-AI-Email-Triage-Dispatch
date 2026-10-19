@@ -4,8 +4,8 @@
 <tr>
 <td width="30%" align="center" valign="top" style="border: none; padding-right: 15px;">
 
-<!-- Reliable AI Email Vector Icon -->
-<img src="https://cdn-icons-png.flaticon.com/512/6556/6556270.png" width="70%" style="border-radius: 8px;" alt="AI Email Triage Automation" />
+<!-- Modern 3D Mail Icon -->
+<img src="https://img.icons8.com/3d-fluency/256/mail.png" width="70%" alt="AI Email Triage Automation" />
 <br><br>
 <!-- Dynamic HUD / Typing Metric Indicator -->
 <img src="https://readme-typing-svg.herokuapp.com?color=F55036&center=true&vCenter=true&lines=P1-P4+Priority+Scoring;Entity+Extraction;Groq-to-OpenAI+Failover;60%25+Faster+Turnaround&width=250&height=40&size=14">
