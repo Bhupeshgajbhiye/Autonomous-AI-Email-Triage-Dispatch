@@ -4,8 +4,8 @@
 <tr>
 <td width="35%" align="center" valign="top" style="border: none; padding-right: 15px;">
 
-<!-- IMPORTANT: Swap the link below with your drag-and-drop GitHub link -->
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=400&q=80" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="AI Email Triage System Dashboard" />
+<!-- Custom AI Email Triage Laptop Interface -->
+<img src="Gemini_Generated_Image_2t5v432t5v432t5v.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="AI Email Triage System Dashboard" />
 
 <br><br>
 <!-- Dynamic HUD / Typing Metric Indicator -->
