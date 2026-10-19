@@ -1,3 +1,4 @@
+![Uploading Gemini_Generated_Image_2t5v432t5v432t5v.png…]()
 <h2 align="center">📧 Autonomous AI Email Triage & Support Dispatch</h2>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
