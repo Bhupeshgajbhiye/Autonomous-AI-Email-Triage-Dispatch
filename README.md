@@ -4,8 +4,8 @@
 <tr>
 <td width="30%" align="center" valign="top" style="border: none; padding-right: 15px;">
 
-<!-- Modern Mail/Communication Concept Image -->
-<img src="https://images.unsplash.com/photo-1596526131083-e8c638c9c6c7?w=400&auto=format&fit=crop&q=80" width="100%" style="border-radius: 8px;" alt="Email Triage Automation Interface" />
+<!-- Reliable AI Email Vector Icon -->
+<img src="https://cdn-icons-png.flaticon.com/512/6556/6556270.png" width="70%" style="border-radius: 8px;" alt="AI Email Triage Automation" />
 <br><br>
 <!-- Dynamic HUD / Typing Metric Indicator -->
 <img src="https://readme-typing-svg.herokuapp.com?color=F55036&center=true&vCenter=true&lines=P1-P4+Priority+Scoring;Entity+Extraction;Groq-to-OpenAI+Failover;60%25+Faster+Turnaround&width=250&height=40&size=14">
@@ -14,7 +14,7 @@
 <td width="70%" valign="top" style="border: none; padding-left: 15px;">
 
 <blockquote>
-<b>🚀 Business Impact:</b> Engineered an asynchronous LLM pipeline that successfully cut enterprise ticket turnaround time by <b>60%</b>[cite: 5].
+<b>🚀 Business Impact:</b> Engineered an asynchronous LLM pipeline that successfully cut enterprise ticket turnaround time by <b>60%</b>.
 </blockquote>
 
 <p><b>🔄 Advanced Architecture Flow:</b></p>
@@ -24,10 +24,10 @@
 
 <p><b>⚙️ Comprehensive Engineering Mechanics:</b></p>
 <ul>
-<li><b>Intelligent Routing & Scoring:</b> Deployed Groq API (Llama-3) for sub-second intent classification, precise entity extraction, and dynamic P1–P4 priority scoring[cite: 5].</li>
-<li><b>Automated Queue Dispatch:</b> Triggered via FastAPI webhooks, featuring intelligent queue routing and automated Slack escalation for high-priority tickets[cite: 5].</li>
-<li><b>Context-Aware Draft Generation:</b> Leverages OpenAI GPT models to auto-generate contextually accurate draft replies strictly adhering to JSON-schema outputs[cite: 5].</li>
-<li><b>Enterprise Resilience & Safety:</b> Built with a robust Groq-to-OpenAI model failover mechanism, active PII sanitization filters, and a mandatory human-in-the-loop approval gate prior to final dispatch[cite: 5].</li>
+<li><b>Intelligent Routing & Scoring:</b> Deployed Groq API (Llama-3) for sub-second intent classification, precise entity extraction, and dynamic P1–P4 priority scoring.</li>
+<li><b>Automated Queue Dispatch:</b> Triggered via FastAPI webhooks, featuring intelligent queue routing and automated Slack escalation for high-priority tickets.</li>
+<li><b>Context-Aware Draft Generation:</b> Leverages OpenAI GPT models to auto-generate contextually accurate draft replies strictly adhering to JSON-schema outputs.</li>
+<li><b>Enterprise Resilience & Safety:</b> Built with a robust Groq-to-OpenAI model failover mechanism, active PII sanitization filters, and a mandatory human-in-the-loop approval gate prior to final dispatch.</li>
 </ul>
 
 <p><b>🛠️ Technology Stack:</b></p>
