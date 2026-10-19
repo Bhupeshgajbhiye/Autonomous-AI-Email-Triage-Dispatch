@@ -1,13 +1,11 @@
-![Uploading Gemini_Generated_Image_2t5v432t5v432t5v.png…]()
 <h2 align="center">📧 Autonomous AI Email Triage & Support Dispatch</h2>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
 <td width="35%" align="center" valign="top" style="border: none; padding-right: 15px;">
 
-<!-- 1. Drag & drop your image into GitHub editor -->
-<!-- 2. Paste the generated https://github.com/... link between the quotes below -->
-<img src="" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="AI Email Triage System Dashboard" />
+<!-- Paste your copied https://github.com/... link between the quotes below -->
+<img src="PASTE_YOUR_HTTPS_LINK_HERE" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="AI Email Triage System Dashboard" />
 
 <br><br>
 <!-- Dynamic HUD / Typing Metric Indicator -->
